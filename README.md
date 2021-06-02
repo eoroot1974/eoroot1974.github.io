@@ -11,3 +11,4 @@ Los documentos incluidos en este repositorio son:
 - Informe final de la práctica.
 - Fichero index.html con el link de acceso a la visualización (también incluido en la sección de Wiki).
 - Copia del dataset (fichero abnb_raw_good.csv) usado en la visualización.
+- Fichero InsideAirbnb_VisualizationDashboard_image.png con una imagen estática del dashboard.
